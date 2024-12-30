@@ -26,6 +26,8 @@ title = 'University Jobs'
 
 [params]
 
+  Description = "A lightweight **university jobs** platform for faculty seekers, and faculty search committe. Explore **fast**, **secure**, and **web-friendly** interface."
+
   # Google Fonts
   google_fonts = [
     ["Inter", "300, 400, 600, 700"],
