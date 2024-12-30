@@ -1,1 +1,1 @@
-# articleosuniversity.github.io
+# articleos.github.io
