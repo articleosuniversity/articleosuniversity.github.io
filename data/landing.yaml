@@ -25,7 +25,7 @@ hero:
   #   height: 80px
 
   title: "University Jobs"
-  subtitle: A lightweight **university jobs** platform for faculty seekers, and faculty search committe. Explore **fast**, **secure**, and **web-friendly** interface.
+  subtitle: "A lightweight **university jobs** platform for faculty seekers, and faculty search committe. Explore **fast**, **secure**, and **web-friendly** interface."
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
