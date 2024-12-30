@@ -1,6 +1,7 @@
 baseURL = 'https://articleosuniversity.github.io/'
 languageCode = 'en-us'
 title = 'University Jobs'
+description = 'University Jobs'
 
 [module]
     [[module.imports]]
@@ -25,8 +26,6 @@ title = 'University Jobs'
       block = true
 
 [params]
-
-  Description = "A lightweight **university jobs** platform for faculty seekers, and faculty search committe. Explore **fast**, **secure**, and **web-friendly** interface."
 
   # Google Fonts
   google_fonts = [
